@@ -1,3 +1,5 @@
+// Stephen Mahon, 1505046
+
 export const categories = {
   cooks: "Cookbooks",
   database: "Database",

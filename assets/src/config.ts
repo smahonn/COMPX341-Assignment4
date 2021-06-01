@@ -1,3 +1,5 @@
+// Stephen Mahon, 1505046
+
 export default {
   apiGateway: {
     REGION: "us-east-1",
