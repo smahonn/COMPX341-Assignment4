@@ -7,6 +7,9 @@ fi
 	echo 'all comments included!'
 	npm install
 	npm run build
+	cd src/__tests__
+	npm run test
+	cd ../../../
 	git add .
 	git commit -m $1
 	git push origin master
