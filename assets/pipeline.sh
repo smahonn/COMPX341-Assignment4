@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 echo $(python3 StaticCheck.py)
 if [ $(python3 StaticCheck.py) = 0 ] 
 then
